@@ -9,5 +9,4 @@ pet = input("what is your pet name?\n")
 goods = input("what type of goods do you deal on?\n")
 #4. Combine the name of their city,pet and goods to show their brand name..
 print("your brand name could be " + street + " " + pet + " " + goods)
-#5. Make sure the input cursor shows on a new line, see the example at:
-#   https://band-name-generator-end.appbrewery.repl.run/
+
