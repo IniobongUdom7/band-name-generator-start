@@ -1,2 +1,2 @@
-# brand-name-generator-start
+# brand Name Generator
 MY First pyhon projects
